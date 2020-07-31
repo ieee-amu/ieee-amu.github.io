@@ -1,11 +1,21 @@
-# STATIC
+# Auto generated Nuxt website
 
-**This directory is not required, you can delete it if you don't want to use it.**
+This is an auto generated nuxt website. An experiment to test the functionality of Nuxt.
+Visit https://ieee-amu.github.io for testing this auto generated website.
+You can compare this https://ieee-amu.netlify.com in terms of features.
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
+## Passed events
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+- Every page was rendered perfectly
+- Images were loaded perfectly
+- Overall website looking good
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+## Failed events
+
+- Dark mode failed to work
+- Features such as dialog box apperance failed
+- Many nuxt features broke while surfing from one page to another
+
+## Conclusion
+
+We'll be using Nuxt as of now and netlify for hosting the website.
